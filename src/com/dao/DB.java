@@ -18,7 +18,7 @@ public class DB
 
 	private String className = "com.mysql.jdbc.Driver";
 
-	private String url = "jdbc:mysql://localhost:3306/graduation_db_rsgz?useUnicode=true&amp;amp;amp;amp;amp;amp;characterEncoding=utf-8";
+	private String url = "jdbc:mysql://localhost:3306/graduation_79_db_rsgz?useUnicode=true&amp;amp;amp;amp;amp;amp;characterEncoding=utf-8";
 
 	public DB()
 	{
